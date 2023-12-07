@@ -8,7 +8,7 @@ Paper title:
 Simulating Drip Irrigation (DI) System For Optimizing Water Use Efficiency
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1mBhx4yft8Oe5lPGrFPIGHQ_mYqWfIuyrgUyNrWVFEjM/edit?usp=sharing
 
 Group Number:
 22

@@ -1,7 +1,7 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/project/655dd0b5587dc05c03ed83fc
 
-Unlisted YouTube video:
+Unlisted YouTube video: https://youtu.be/WkMhR2kFMDk
 
 
 Conference submitted paper / paper submission / login Link:
@@ -10,7 +10,7 @@ Conference submitted paper / paper submission / login Link:
 Paper title:
 Simulating Drip Irrigation (DI) System For Optimizing Water Use Efficiency
 
-Paper presentation (anyone can view without login):
+Paper presentation (anyone can view without login): https://docs.google.com/presentation/d/1LH_U9sZ6G7JUA9Z2jQYGslmOeJ50iouodQSuEyfuNNQ/edit?usp=sharing
 
 
 Paper submission date (to workshop/conference):
